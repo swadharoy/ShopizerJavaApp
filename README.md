@@ -13,9 +13,8 @@ Java open source e-commerce software
 
 Pre-Requisites 
 -------------------
- - Install JSK 8, application don't run witj JDK 10 which is the latest version. I tested with JDK version 1.8_191
- - Install Maven
- - Download Tomcat 9.0
+ - JDK 8
+ - Maven
 
 
 
